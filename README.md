@@ -35,14 +35,11 @@ and visual identity needed a palette that could grow alongside it.
 
 Nordic Archive is being released separately as a small, independent project.
 
----
 
 ## A note on the names
 
 Names such as **Cobalt**, **Pine**, **Definition**, and **Strategy Copper** came
 from how the colours first appeared inside Heurigraph and will most likely naturally evolve into new names. 
-
----
 
 ## Palette
 
@@ -88,7 +85,6 @@ from how the colours first appeared inside Heurigraph and will most likely natur
 | Warning amber | `#80601A` | ![#80601A](https://placehold.co/48x18/80601A/80601A.png) |
 | Success | `#49723F` | ![#49723F](https://placehold.co/48x18/49723F/49723F.png) |
 
----
 
 ## macOS colour palette
 
@@ -96,7 +92,6 @@ The macOS `.clr` palette contains the complete Nordic Archive light and dark
 colour sets.
 
 [Download Nordic Archive.clr](assets/Nordic%20Archive.clr?raw=1)
----
 
 ## Accessibility
 
@@ -104,14 +99,10 @@ Nordic Archive does not claim universal accessibility compliance.
 
 Contrast depends on how the colours are combined, along with the font size, weight, background, and context in which they are used. Check the combinations that matter for your own project.
 
----
-
 ## Acknowledgements
 
 Nordic Archive is independently developed, but it would not exist without the
 influence of [Nord](https://www.nordtheme.com/) and the years I spent using it as my default palette.
-
----
 
 ## Licence
 

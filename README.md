@@ -14,17 +14,9 @@
   A light and dark colour palette created while building Heurigraph ... with roots in Nord and a little more contrast, warmth, and punch.
 </p>
 
-<p align="center">
+---
 
-  <sub>
-
-    Core palette locked · Get the macOS <code>.clr</code> palette
-
-    <a href="assets/Nordic%20Archive.clr?raw=1">here</a>
-
-  </sub>
-
-</p>
+<p align="center"><sub>Core palette locked · Get the macOS <code>.clr</code> palette <a href="./assets/Nordic%20Archive.clr?raw=1">here</a></sub></p>
 
 ---
 

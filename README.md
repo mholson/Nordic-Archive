@@ -14,11 +14,9 @@
   A light and dark colour palette created while building Heurigraph ... with roots in Nord and a little more contrast, warmth, and punch.
 </p>
 
----
 
 <p align="center"><sub>Core palette locked · Get the macOS <code>.clr</code> palette <a href="./assets/Nordic%20Archive.clr?raw=1">here</a></sub></p>
 
----
 
 ## About
 **Nordic Archive** has been designed to keep the part of the [Nord](https://www.nordtheme.com/docs/colors-and-palettes/) color palette that I have always liked, but gives the colours a little more presence. Nordic Archive shares clear roots with Nord, but the colours have moved enough to give the palette its own character.

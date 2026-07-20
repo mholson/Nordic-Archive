@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center"><sub>Core palette locked · Get the macOS <code>.clr</code> palette <a href="./assets/Nordic%20Archive.clr?raw=1">here</a></sub></p>
+<p align="center"> <a href="./assets/Nordic%20Archive.clr?raw=1">Download the macOS clr here</a></p>
 
 
 ## About

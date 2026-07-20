@@ -15,8 +15,16 @@
 </p>
 
 <p align="center">
-  <sub>Core palette locked · macOS <code>.clr</code> palette coming shortly</sub>
-</p>
+
+  <sub>
+
+    Core palette locked · Get the macOS <code>.clr</code> palette
+
+    <a href="assets/Nordic%20Archive.clr?raw=1">here</a>
+
+  </sub>
+
+</p
 
 ---
 
@@ -94,8 +102,10 @@ from how the colours first appeared inside Heurigraph and will most likely natur
 
 ## macOS colour palette
 
-A macOS `.clr` file containing both the light and dark palettes will be published shortly.
+The macOS `.clr` palette contains the complete Nordic Archive light and dark
+colour sets.
 
+[Download Nordic Archive.clr](assets/Nordic%20Archive.clr?raw=1)
 ---
 
 ## Accessibility

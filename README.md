@@ -4,8 +4,6 @@
        width="60%">
 </p>
 
-<h1 align="center">Nordic Archive</h1>
-
 <p align="center">
   <strong>A calm palette for focused work.</strong>
 </p>

@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/nordic_archive_banner.png"
        alt="Nordic Archive — A calm palette for focused work"
-       width="100%">
+       width="60%">
 </p>
 
 <h1 align="center">Nordic Archive</h1>
@@ -14,8 +14,7 @@
   A light and dark colour palette created while building Heurigraph ... with roots in Nord and a little more contrast, warmth, and punch.
 </p>
 
-
-<p align="center"> <a href="./assets/Nordic%20Archive.clr?raw=1">Download the macOS clr here</a></p>
+<p align="center"> <a href="assets/Nordic%20Archive.clr">Download the macOS clr here</a></p>
 
 
 ## About
